@@ -15,7 +15,7 @@
 #include <linux/slab.h>
 
 MODULE_LICENSE("GPL");
-MODULE_AUTHOR("Kernel Developer");
+MODULE_AUTHOR("Kernel_DevSa");
 MODULE_DESCRIPTION("System Call Monitor using Kprobes");
 MODULE_VERSION("1.0");
 
